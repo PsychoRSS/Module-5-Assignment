@@ -31,6 +31,14 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+design planner 7 day planner
+day/time is displayed at the top center of calander
+timeblock for buisness hours, 
+when hover or look at timeblock displays presented with the current tasks of the day
+timeblock displays different colors for the past, present and future events
+when timeblock is clicked, then events in timblock can be edited for that dya
+when click save- it will save to local storage of timeblock
+when page is refreshed saved events stay 
 
 The following animation demonstrates the application functionality:
 
